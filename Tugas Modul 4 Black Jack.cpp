@@ -100,6 +100,12 @@ int main()
                 cout << "======================================================"<<endl;
             }
         
+        else if (TotalKartu == TotalDealer)
+            {  
+                cout << "Seri" << endl;
+                cout << "======================================================"<<endl;
+            }
+            
         else
             {
                 cout << "Anda Kalah" << endl;
