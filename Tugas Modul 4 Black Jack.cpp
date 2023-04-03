@@ -99,11 +99,7 @@ int main()
                 cout << "Anda menang" << endl;
                 cout << "======================================================"<<endl;
             }
-        else if (TotalKartu == TotalDealer)
-            {
-                cout << "Seri" << endl;
-                cout << "======================================================"<<endl;
-            }
+        
         else
             {
                 cout << "Anda Kalah" << endl;
