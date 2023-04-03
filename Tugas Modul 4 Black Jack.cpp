@@ -81,7 +81,7 @@ int main()
         cout << "." << endl;
         cout << "Ok giliran Dealer selesai" << endl;
         cout << "Hasil : " << endl;
-        Sleep(3000);
+        Sleep(1000);
 
         while(TotalDealer <= 21 && !no)
         {
